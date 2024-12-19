@@ -1,0 +1,10 @@
+(x,y)
+
+(x +1, y) #Avant
+(x -1, y) #Arrière
+(x, y +1) #Haut
+(x, y -1) #Bas
+(x + 1, y  + 1) #Diagonale haut droite
+(x - 1, y - 1) #Diagonale bas gauche
+(x - 1, y + 1) #Diagonale haut gauche
+(x + 1, y - 1) #Diagonale bas droite
